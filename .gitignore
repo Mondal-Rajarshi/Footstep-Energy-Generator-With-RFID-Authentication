@@ -1,0 +1,74 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker files
+*.ilk
+
+# Debugger Files
+*.pdb
+*.dwo
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.elf
+*.hex
+*.bin
+*.map
+
+# =====================================
+# Arduino Specific
+# =====================================
+
+*.ino.cpp
+*.ino.cpp.o
+build/
+
+# =====================================
+# IDE Folders
+# =====================================
+
+.vscode/
+.idea/
+
+# =====================================
+# OS Generated Files
+# =====================================
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# =====================================
+# Logs & Temporary
+# =====================================
+
+*.log
+*.tmp
+*.bak
+*.swp
